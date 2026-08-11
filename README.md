@@ -815,10 +815,6 @@ The project includes:
 **Sergio Andrés Rodríguez Víquez**
 **Jose Alberto Carranza Cedeño**
 
-Academic project developed for:
-
-**TAND-06 — Final Project**
-
 ---
 
 # 📚 Concepts Applied
