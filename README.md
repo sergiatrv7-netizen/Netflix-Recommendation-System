@@ -52,30 +52,6 @@ Develop a hybrid recommendation system capable of generating personalized conten
 
 ---
 
-# 🗂️ Project Structure
-
-```text
-Netflix-Recommendation-System/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── data/
-│   ├── README.md
-│   └── processed/
-│       └── viewing_history_clean.csv
-│
-├── notebooks/
-│   └── ProyectoFinalFINALISIMO.ipynb
-│
-└── reports/
-    └── figures/
-        ├── eda/
-        ├── users/
-        ├── catalog/
-        └── evaluation/
-```
 
 ### Folder Description
 
