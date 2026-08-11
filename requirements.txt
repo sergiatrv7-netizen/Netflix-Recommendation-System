@@ -1,0 +1,22 @@
+import pandas as pd
+import numpy as np
+import os
+
+# Visualización
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Preprocesamiento y clustering (Perfilamiento de Usuarios)
+from sklearn.preprocessing import StandardScaler
+from sklearn.cluster import KMeans
+
+# Similitud y recomendación (Filtrado Colaborativo + Content-Based)
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.neighbors import NearestNeighbors
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+# Configuración de estilo para gráficos
+sns.set_style("whitegrid")
+plt.rcParams["figure.figsize"] = (12, 6)
+
+print("Librerías cargadas correctamente.")
