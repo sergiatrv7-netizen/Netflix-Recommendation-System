@@ -13,4 +13,4 @@ of individual rows). This approach keeps each sampled user's complete watch patt
 intact, which is important for training and evaluating recommendation models that
 rely on per-user history.
 
-To regenerate the full dataset locally, run `generar_historial_visualizaciones.py`.
+
